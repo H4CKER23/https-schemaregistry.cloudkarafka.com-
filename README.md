@@ -1,0 +1,1 @@
+# https-schemaregistry.cloudkarafka.com-
